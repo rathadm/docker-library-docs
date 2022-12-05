@@ -10,7 +10,7 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: example
 
-  adminer_test2:
+  adminer_test3:
     image: adminer
     restart: always
     ports:
